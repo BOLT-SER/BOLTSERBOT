@@ -1,14 +1,14 @@
 {
-  "name": "raganork",
+  "name": "BOLTSERBOT",
   "version": "4.0.1",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
-  "main": "./Raganork/bot.js",
+  "description": "BOLTSERBOT whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "main": "./BOLTSERBOT/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/BOLT-SER/BOLTSERBOT.git"
   },
   "keywords": [
     "whatsapp",
@@ -21,13 +21,13 @@
   "developer": "Raganork / @souravkl11",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://github.com/BOLT-SER/BOLTSERBOT/issues"
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/BOLT-SER/BOLTSERBOT#readme",
   "dependencies": {
     "file-type": "16.5.2",
     "nekobin": "0.0.1",
-    "raganork-bot": "1.9.1",
+    "BOLTSERBOT": "1.9.1",
     "sequelize": "6.13.0",
     "supervisor": "0.12.0"
      }
